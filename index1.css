@@ -1,0 +1,19 @@
+ *{
+    background-color: whitesmoke;
+  }
+  h1,h2,h3,p,pre,i{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h1 {
+    color: purple;
+    text-align: center;
+  }
+  h2,
+  h3 {
+    font-size: 1.25em;
+    color: darkred;
+  }
+  i {
+    font-size: 0.8em;
+  }
+  
